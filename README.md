@@ -7,8 +7,15 @@
     <img alt="Quickshell 0.3" src="https://img.shields.io/badge/QUICKSHELL-0.3-89b4fa?style=flat-square&labelColor=181825">
     <img alt="Niri" src="https://img.shields.io/badge/COMPOSITOR-NIRI-89b4fa?style=flat-square&labelColor=181825">
     <img alt="QML" src="https://img.shields.io/badge/UI-QML-89b4fa?style=flat-square&labelColor=181825">
+    <img alt="Unmaintained" src="https://img.shields.io/badge/STATUS-UNMAINTAINED-f38ba8?style=flat-square&labelColor=181825">
   </p>
 </div>
+
+> [!WARNING]
+> **I don't use this config anymore.**
+> JAQC-shell has been replaced by [suzuha](https://github.com/MystiaFin/suzuha), my amane config written in Rust. It looks and works pretty much the same, so that's where all new changes go.
+>
+> This repo stays up as-is for reference. It won't get fixes or updates, and things may break as Quickshell and Niri move on.
 
 ## Preview
 
@@ -259,7 +266,7 @@ shell.qml        root configuration
 
 ## Notes
 
-This is a personal config that I daily-drive and keep changing. Expect opinions, occasional breakage, and features that exist because I wanted them on my own desktop.
+This was a personal config that I daily-drove until moving to [suzuha](https://github.com/MystiaFin/suzuha). Expect opinions, occasional breakage, and features that exist because I wanted them on my own desktop.
 
 If you use it as a base for your own setup, reading and modifying the QML is very much part of the experience.
 
