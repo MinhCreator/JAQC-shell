@@ -20,7 +20,7 @@
 
 ## Preview
 
-https://github.com/user-attachments/assets/49df087e-79db-4acb-8bdd-ff71a1be1aee
+https://githubusercontent.com/MinhCreator/JAQC-shell/main/assets/output.mp4
 ## Overview
 
 JAQC-shell is my personal Quickshell configuration: a complete desktop shell rather than a collection of disconnected widgets.
